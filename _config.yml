@@ -20,9 +20,9 @@
 
 title: 麦圈博客
 email: service@medprober.com
-description: 关注医学与健康的博客
+description: 关注医学与健康的博客，本博客纯属个人爱好，所有内容均不构成健康或学术建议，敬请知晓。若身染疾病，宜速赴医院求治，勿自度，误延良机。
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://tomandpeter.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Medprober_Blog
 github_username:  jekyll
 
@@ -32,10 +32,10 @@ plugins:
   - jekyll-feed
 
 show_excerpts: true
-excerpt_separator: "<!--end_excerpt-->"
+excerpt_separator: "<!--more-->"
 
-paginate: 5  # 每页显示的帖子数量
-paginate_path: "/page/:num/"
+paginate: 5
+paginate_path: "/page:num/"
 plugins:
   - jekyll-paginate
 
