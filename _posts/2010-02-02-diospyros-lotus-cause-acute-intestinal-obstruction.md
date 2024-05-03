@@ -5,12 +5,11 @@ date: '2010-02-02T20:04:12+00:00'
 author: bensonchina
 excerpt: 黑枣含有鞣酸，鞣酸与胃肠液中的蛋白质结合，生成不溶于水的沉淀物，具有收敛的作用，能减少胃肠道粘液的分泌，抑制肠蠕动，加之小肠肠腔狭细，容易引起小肠梗阻。再有未消化的果皮、果核、其他植物纤维等，即凝集成块状粪石。此类食物还包括山楂、柿子以及石花菜和芒果，后两者少见。对于胃肠道功能较差者，应少食此类食品。对于曾有胃切除手术史者，则更应注意。
 layout: post
-guid: 'http://chouwen.info/?p=194'
 permalink: /archives/194
 views:
     - '1533'
 image:
-    - 'http://chouwen.info/assets/uploads/2010/02/heizao.jpg'
+    - '/assets/uploads/2010/02/heizao.jpg'
 categories:
     - 疾病科普
 tags:
