@@ -10,7 +10,7 @@ permalink: /archives/219
 views:
     - '1554'
 image:
-    - 'http://chouwen.info/assets/uploads/2010/02/disulfiramPath.jpg'
+    - 'http://blog.medprober.com/assets/uploads/2010/02/disulfiramPath.jpg'
 categories:
     - 疾病科普
 tags:
