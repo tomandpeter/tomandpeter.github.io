@@ -22,7 +22,7 @@ title: 麦圈博客
 email: service@medprober.com
 description: 关注医学与健康的博客
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://tomandpeter.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Medprober_Blog
 github_username:  jekyll
 
