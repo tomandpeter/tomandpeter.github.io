@@ -5,12 +5,11 @@ date: '2010-02-10T10:45:44+00:00'
 author: bensonchina
 excerpt: '现代医学认为呃逆是一侧或两侧膈肌不自主痉挛,呃逆中枢在脊髓的颈段,刺激通过迷走神经、交感神经、脑神经传入,再经传出神经支配肌肉而致呃逆。一般因膈神经局部受累,迷走神经受刺激或中枢神经疾病引起。常见于受寒或食入药物、冷食、吸入冷空气等，继发性呃逆者常见于：器质性心脏病，消化系统疾病如：肝癌、胃 癌、肺癌、溃疡病、胃炎、癔症、服用某些药物等刺激因素引起迷走神经兴奋性增高所致。'
 layout: post
-guid: 'http://chouwen.info/?p=214'
 permalink: /archives/214
 views:
     - '1161'
 image:
-    - 'http://chouwen.info/assets/uploads/2010/02/hiccup.jpg'
+    - '/assets/uploads/2010/02/hiccup.jpg'
 bulteno_post_views_count:
     - '0'
 categories:
